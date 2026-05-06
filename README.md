@@ -13,7 +13,7 @@
 | Lyric Writing Date | May 02, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/ghalet-lamma-sadaktek/) |
 | License | [View License](./LICENSE.md) |
-| Get License | [Official Usage Rights for Ghalet Lamma Sadaktek](https://music.abusayed.com.bd/Licensing/) |
+| Get License | [Obtain a Music License for Ghalet Lamma Sadaktek](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
